@@ -1,84 +1,104 @@
-## Hi there 👋
+<!-- PROFILE README for @shashankjt -->
+<!-- Designed for creativity + professional flair -->
 
+<h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Shashank T</span></h1>
+<h3 align="center">🚀 AI & Full Stack Developer | Problem Solver | Innovator</h3>
 
-
-# 👋 Hey — I'm Shashank T (shashankjt)
-> Computer Science (AI) undergrad | Full-stack & ML tinkerer | SDE Intern  
-> Bengaluru · shashankjt11@gmail.com · +91 63612 35336  
-> LinkedIn: https://www.linkedin.com/in/shashank-t-ba9b78294 · GitHub: https://github.com/shashankjt.  
-> (Resume & contact details referenced from my CV). :contentReference[oaicite:1]{index=1}
-
----
-
-## 🚀 About Me
-I'm a B.Tech (CSE & AI) student (Class of 2026) building full-stack web apps, ML pipelines, and performant systems. I love turning neat ideas into production-ready code — from deep learning research prototypes to CI/CD-enabled web apps.
-
-Key strengths: problem solving, quick learning, team collaboration, and shipping clean, maintainable code.
+<p align="center">
+  <a href="mailto:shashankjt11@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashank-t-ba9b78294/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shashankjt"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech + Tools
-**Languages:** Java · C++ · Python · JavaScript · SQL  
-**Frontend:** React · TailwindCSS · HTML/CSS  
-**Backend / DB:** Node.js · Express · MongoDB · REST APIs  
-**ML / Data:** PyTorch/TensorFlow (DL models), Scikit-learn  
-**DevOps / Tools:** Git · GitHub Actions · Docker · VS Code · Postman  
-**Core CS:** DSA · OOP · OS · DBMS · Distributed Systems
+### 🧠 About Me
+
+> 💡 Passionate **Computer Science (AI)** student (Class of 2026) with hands-on experience in **Full-Stack Development**, **Machine Learning**, and **Software Engineering**.  
+> I love building things that combine **creativity, performance, and intelligence** — from smart ML models to scalable backend APIs.
+
+- 🔭 Currently working on **Multi-threaded Chat Application (C++)**
+- 🧪 Researching **Deep Learning models for Medical Imaging**
+- 💼 **SDE Intern at F9 Cybrisk Tech Pvt. Ltd**
+- 🌱 Learning: **DevOps, Cloud Architecture (AWS, Docker)**
+- ⚡ Fun fact: My debugging sessions are 70% coffee ☕ & 30% logic 🧩
 
 ---
 
-## 💡 Highlight Projects
-> Short summaries + links — click to view the code / demos.
+### 🛠️ Tech Stack
 
-### 🔍 Network Traffic Analyzer  
-Machine-learning based traffic classifier (Random Forest). Built feature extraction pipeline, model training, and evaluation. Drafted an IEEE paper & presented at ICCTDC-2025.  
-**Repo:** https://github.com/shashankjt/Network-Traffic-Analyzer. :contentReference[oaicite:2]{index=2}
+#### 💻 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css,sql" />
+</p>
 
-### 🫁 Respiratory Disease Detection (Deep Learning)  
-Chest X-ray classifier for multiple respiratory conditions using VGG16 / DenseNet hybrids. Achieved ~87% accuracy and added a simple diagnostic recommendation engine.
+#### 🧩 Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,pytorch,tensorflow,sklearn" />
+</p>
 
-### 💬 Multi-threaded Chat App (C++ Sockets) — *In Progress*  
-Low-level socket programming, concurrency, and efficient messaging for a robust chat server + CLI client.
-
-(Full project list & live demos available on my GitHub.)
-
----
-
-## 🏆 Hackathons & Achievements
-- **HackVerse (National, Finalist)** — ML-powered livestock disease detection app with automated pipelines; rapid prototyping and deployment under pressure. :contentReference[oaicite:3]{index=3}
-- Presented at **ICCTDC-2025** (research draft on network traffic / classification). :contentReference[oaicite:4]{index=4}
+#### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,mongodb" />
+</p>
 
 ---
 
-## 🧑‍💼 Experience
-**SDE Intern — F9 Cybrisk Tech Pvt. Ltd** (Jun 2024 – Present)  
-Worked on modular React + Tailwind components, added automated console & network validations, and contributed to CI/CD pipelines using GitHub Actions. Collaborated on debugging production issues and code reviews. :contentReference[oaicite:5]{index=5}
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 **Network Traffic Analyzer** | ML-based traffic classifier with Random Forest. Research draft submitted to IEEE ICCTDC-2025. | Python, scikit-learn, pandas |
+| 🫁 **Respiratory Disease Detection** | Deep Learning model (VGG16/DenseNet) for X-ray classification with 87% accuracy. | Python, TensorFlow, Keras |
+| 💬 **Multi-threaded Chat App** | Low-level socket programming for multi-user chat over TCP. | C++, Threads, Sockets |
+| 🌐 **Portfolio Website** | Interactive personal portfolio built with animations. | React, TailwindCSS, Framer Motion |
+
+<p align="center">
+  <a href="https://github.com/shashankjt?tab=repositories"><b>🔗 Explore all my projects →</b></a>
+</p>
 
 ---
 
-## 📈 GitHub Snapshot
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankjt&layout=compact&theme=default)](https://github.com/shashankjt)
-[![Stats](https://github-readme-stats.vercel.app/api?username=shashankjt&show_icons=true&count_private=true&theme=default)](https://github.com/shashankjt)
+### 🏆 Achievements
+
+- 🧩 **Finalist — HackVerse Hackathon 2025**: ML-based livestock disease detection app.  
+- 🎓 **Research Presentation — ICCTDC-2025**: Network traffic analysis via ML.  
+- 💻 **Top 10% in CodeChef and LeetCode contests** (Data Structures & Algorithms).  
 
 ---
 
-## 🎯 What I'm working on
-- Finishing the C++ multi-threaded chat app (concurrency & reliability improvements).  
-- Improving the respiratory disease detection model and expanding data-augmentation pipelines.  
-- Building production CI/CD flows for small projects using GitHub Actions + Docker.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankjt&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shashankjt&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankjt&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-## 💬 Want to collaborate?
-I’m open to internships, open-source collabs, and interesting problems in ML / full-stack engineering.  
-Email: **shashankjt11@gmail.com** · LinkedIn: https://www.linkedin.com/in/shashank-t-ba9b78294. :contentReference[oaicite:6]{index=6}
+### 🌈 Let's Connect
+
+<p align="center">
+  <a href="mailto:shashankjt11@gmail.com"><img src="https://img.shields.io/badge/Email_Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashank-t-ba9b78294/"><img src="https://img.shields.io/badge/LinkedIn_Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shashankjt"><img src="https://img.shields.io/badge/GitHub_Profile-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## ✨ Fun & Extras
-- Always learning new algorithms and system design patterns.  
-- Coffee-fueled late-night debugging sessions. ☕️
+### ✨ Fun Corner
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Random Dev Joke" />
+</p>
+
+<p align="center">⭐ If you like my work, consider giving a star to my repositories! ⭐</p>
 
 ---
+<p align="center">
+  <i>“Code is like humor — when you have to explain it, it’s bad.”</i>
+</p>
 
-> If you'd like a variant of this (minimal, professional, or a version with a GIF header / custom badges), tell me which style and I’ll output that exact README next.
