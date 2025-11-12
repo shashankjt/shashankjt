@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hey+there+👋+I'm+Shashank+T!;AI+%26+Full+Stack+Developer;Problem+Solver+%7C+Researcher+%7C+Innovator;Turning+ideas+into+intelligent+systems+🚀" alt="Typing Animation" />
 </p>
 
+
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankjt11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-t-ba9b78294/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashankjt)
