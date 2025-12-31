@@ -100,20 +100,6 @@ Deep Learning classifier using VGG16/DenseNet hybrids with 87% accuracy on X-ray
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankjt&bg_color=0d1117&color=00C9A7&line=00C9A7&point=FFFFFF&area=true&hide_border=true" alt="activity-graph" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankjt&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankjt&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankjt&layout=compact&theme=radical" />
-</p>
 
 ---
 
