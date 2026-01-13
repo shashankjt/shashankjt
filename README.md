@@ -60,7 +60,7 @@
 <td width="50%">
 <h3 align="center">🧠 Network Traffic Analyzer</h3>
 <p align="center">
-<img src="https://github.com/shashankjt/Network-Traffic-Analyzer/raw/main/preview.gif" width="300px" alt="project-preview"/>
+<img src="https://github.com/shashankjt/Network-Traffic-Analyzer/raw/main/preview.gif" width="300px"/>
 </p>
 <p align="center">
 Machine Learning-based traffic classifier (Random Forest) presented at ICCTDC-2025.
