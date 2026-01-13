@@ -75,7 +75,7 @@ Machine Learning-based traffic classifier (Random Forest) presented at ICCTDC-20
 <td width="50%">
 <h3 align="center">🫁 Respiratory Disease Detection</h3>
 <p align="center">
-<img src="https://github.com/shashankjt/Respiratory-Disease-Detection/raw/main/preview.gif" width="300px" alt="project-preview"/>
+<img src="https://github.com/shashankjt/Respiratory_Disease_Detection" width="300px" alt="project-preview"/>
 </p>
 <p align="center">
 Deep Learning classifier using VGG16/DenseNet hybrids with 87% accuracy on X-ray images.
